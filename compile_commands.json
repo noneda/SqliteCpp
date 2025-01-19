@@ -1,0 +1,6 @@
+[
+{
+  "directory": "D:\\C++\\Sqlite",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/Ilib", "/EHsc", "/IC:\\Users\\JDavi\\AppData\\Local\\.xmake\\packages\\s\\sqlitecpp\\3.3.2\\e6fbae8bcc0c4463860caf64d1463071\\include", "/DNDEBUG", "/Fobuild\\.objs\\App\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
